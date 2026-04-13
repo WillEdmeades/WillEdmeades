@@ -2,9 +2,9 @@
 
 **Swift / SwiftUI developer building accessible, polished apps for Apple platforms.**
 
-I'm a Swift / SwiftUI developer focused on building accessible, polished apps for Apple platforms. After 14 years at Apple Retail, I recently completed a 6-month internship with Apple, where I worked as part of a small team building internal apps. I care a lot about accessibility, clean code, modern Apple frameworks, and creating software that feels thoughtful and well made.
+I'm a Swift / SwiftUI developer focused on building iPhone-first apps that feel clear, native, and well considered. After 14 years at Apple Retail, I recently completed a 6-month internship with Apple, where I worked as part of a small team building internal apps. I care a lot about accessibility, clean code, modern Apple frameworks, and shipping software that feels thoughtful and well made.
 
-I like taking ideas from rough prototype to something that feels real, mixing engineering, product thinking, and visual polish. Lately that has also included thoughtful use of Apple's Foundation Models where they actually improve the experience.
+I like taking ideas from rough prototype to something that feels real, combining engineering, product thinking, and visual polish. More recently that has also included careful use of Apple's Foundation Models where they add something genuinely useful.
 
 ## Current Focus
 
@@ -25,7 +25,7 @@ A calm, local-first notes app built with SwiftUI, designed around comfortable re
 An iPhone-first SwiftUI app that helps people find cleaner times to run flexible household tasks using postcode-based UK carbon-intensity forecasts. It shows product thinking, async networking, SwiftData persistence, recommendation logic, testing, and accessibility-minded design.
 
 ### [Rambler](https://github.com/WillEdmeades/Rambler)
-Private for now. A voice-first app focused on transcription, search, summaries, and useful follow-up actions, with an emphasis on modern Apple-platform UX and thoughtful use of Foundation Models.
+An iPhone-first conversation capture app for recording short meetings, interviews, and decision-heavy conversations, then turning them into source-linked review notes. It focuses on transcript-first UX, grounded summaries, and a calm first-party Apple feel.
 
 ## Tech
 
