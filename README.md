@@ -24,7 +24,7 @@ A calm, local-first notes app built with SwiftUI, designed around comfortable re
 ### [Ripple](https://github.com/WillEdmeades/Ripple)
 An iPhone-first SwiftUI app that helps people find cleaner times to run flexible household tasks using postcode-based UK carbon-intensity forecasts. It shows product thinking, async networking, SwiftData persistence, recommendation logic, testing, and accessibility-minded design.
 
-### Rambler
+### [Rambler](https://github.com/WillEdmeades/Rambler)
 Private for now. A voice-first app focused on transcription, search, summaries, and useful follow-up actions, with an emphasis on modern Apple-platform UX and thoughtful use of Foundation Models.
 
 ## Tech
